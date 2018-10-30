@@ -85,7 +85,7 @@
 
             <p>We’ve long believed that over time companies tend to get comfortable doing the same thing, just making incremental changes. But in the technology industry, where revolutionary ideas drive the next big growth areas, you need to be a bit uncomfortable to stay relevant.</p>
 
-            <p>Our company is operating well today, but we think we can make it cleaner and more accountable. So we are creating a new company, called Alphabet. I am really excited to be running Alphabet as CEO with help from my capable partner, Sergey, as President.</p>
+            <p>Our company is operating well today, but we think we can make it cleaner and more accountable. as President.</p>
 
             <p>What is Alphabet? Alphabet is mostly a collection of companies. The largest of which, of course, is Google. This newer Google is a bit slimmed down, with the companies that are pretty far afield of our main internet products contained in Alphabet instead. What do we mean by far afield? Good examples are our health efforts: Life Sciences (that works on the glucose-sensing contact lens), and <a href="http://www.calicolabs.com/" target="_blank">Calico</a> (focused on longevity). Fundamentally, we believe this allows us more management scale, as we can run things independently that aren’t very related.</p>
 
