@@ -1,0 +1,6 @@
+Date/Time	Severity	Class	Method	Data	Message
+10/31/2018 8:36:13 AM	Information	DSATray.App	InitLogging	()	Started version 3.5.0.3
+10/31/2018 8:36:24 AM	Information	DSAUtility.RegistryController	DoesValueExist	()	Start
+10/31/2018 8:36:24 AM	Information	DSAUtility.RegistryController	DoesValueExist	()	HKLM\Software\Intel\Intel Driver Update Utility\startOnReboot = 
+10/31/2018 8:36:24 AM	Information	DSAUtility.RegistryController	DoesValueExist	(False)	End
+10/31/2018 8:36:28 AM	Information	DSATray.App	OnExit	()	Exiting with exit code 0
